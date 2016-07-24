@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cinemas</string>
+    <string name="nombre">Nombre</string>
+    <string name="pass">Contraseña</string>
+    <string name="correo">Correo</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="login">Ingresar</string>
+    <string name="enviar">Enviar</string>
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
